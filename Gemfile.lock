@@ -1,3 +1,10 @@
+GIT
+  remote: https://github.com/firstdraft/draft_log.git
+  revision: 0dd48f82e6bd164d68f75d0a0a644c9c1262fbf5
+  specs:
+    draft_log (0.0.0)
+      awesome_print
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -41,6 +48,7 @@ GEM
     addressable (2.5.2)
       public_suffix (>= 2.0.2, < 4.0)
     arel (8.0.0)
+    awesome_print (1.8.0)
     bindex (0.5.0)
     builder (3.2.3)
     byebug (10.0.0)
@@ -178,6 +186,7 @@ DEPENDENCIES
   byebug
   capybara (~> 2.13)
   coffee-rails (~> 4.2)
+  draft_log!
   jbuilder (~> 2.5)
   listen (>= 3.0.5, < 3.2)
   puma (~> 3.7)
