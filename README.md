@@ -1,24 +1,12 @@
-# README
+# Draft Log Test
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Test of [draft_log](https://github.com/firstdraft/draft_log).
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+ - `rails s`
+ - Watch the log while visiting
+    - [http://localhost:3000/](http://localhost:3000/)
+    - [http://localhost:3000/pages/first](http://localhost:3000/pages/first)
+    - [http://localhost:3000/pages/zebra](http://localhost:3000/pages/zebra)
+    - [http://localhost:3000/pages/zebra/carol/giraffe?sport=hockey&fruit=cookie](http://localhost:3000/pages/zebra/carol/giraffe?sport=hockey&fruit=cookie)
+    - [http://localhost:3000/elephant](http://localhost:3000/elephant)
+ - And please provide feedback!
